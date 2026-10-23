@@ -3,3 +3,4 @@ password.txt
 *.log
 node_modules/
 !edison.log
+about.html 
