@@ -5,10 +5,10 @@ This is readme file
 
 The best way are :
 
-- eat 
-- code
-- sleep 
-- repeat
+- Eat 
+- Code
+- Sleep 
+- Repeat
 
 
 
