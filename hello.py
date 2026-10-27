@@ -6,4 +6,4 @@ def hello():
     print("Hello, World!")  
 
 
-hello()
+z = hello()
